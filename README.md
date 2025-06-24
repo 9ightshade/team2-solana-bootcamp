@@ -1,1 +1,1 @@
-# team2
+# Team2 Solana Bootcamp
